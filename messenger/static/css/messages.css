@@ -77,10 +77,10 @@
   margin-left: -10px;
 }
 .chat-box {
-  position: fixed;
   bottom: 0;
   height: 50px;
-  background-color: white;
+  background-color: #181b1b;
+  
 }
 
 .chat-box .picture {

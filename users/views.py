@@ -62,7 +62,7 @@ def register_user(request):
 
                 msg_txt = """
                     <h4 class="alert-heading">
-                        Welcome to elmer!
+                        Welcome to Yeet!
                     </h4>
                     <p>
                         Thanks for joining our community. Start sharing your ideas by posting
